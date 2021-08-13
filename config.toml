@@ -1,5 +1,5 @@
-baseURL = "https://mjenk664.github.io/mjenk.io/"
-languageCode="en-us"
+baseURL = "https://mjenk664.github.io/"
+languageCode = "en-us"
 title = "mjenk.io"
 theme = "m10c"
 paginate = 8
