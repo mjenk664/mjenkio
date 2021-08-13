@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "mjenk.io"
 theme = "m10c"
 paginate = 8
-canonifyurls = true
 
 [menu]
   [[menu.main]]
