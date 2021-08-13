@@ -1,8 +1,9 @@
-baseURL = "https://mjenk664.github.io/mjenk.io/"
+baseURL = "https://mjenk664.github.io/"
+languageCode="en-us"
 title = "mjenk.io"
-themesDir = "../.."
 theme = "m10c"
 paginate = 8
+canonifyurls = true
 
 [menu]
   [[menu.main]]
@@ -28,11 +29,11 @@ paginate = 8
   [[params.social]]
     icon = "github"
     name = "Github"
-    url = "https://github.com/gohugoio"
+    url = "https://github.com/mjenk664"
   [[params.social]]
     icon = "twitter"
     name = "Twitter"
-    url = "https://twitter.com/gohugoio"
+    url = "https://twitter.com/mattjenk664"
 
   # Default theme
   #[params.style]
