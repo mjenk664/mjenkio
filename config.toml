@@ -1,8 +1,9 @@
-baseURL = "https://mjenk664.github.io/"
+baseURL = "https://mjenk664.github.io/mjenkio"
 languageCode = "en-us"
 title = "mjenk.io"
 theme = "m10c"
 paginate = 8
+publishDir = “docs”
 
 [menu]
   [[menu.main]]
