@@ -1,7 +1,7 @@
 baseURL = "https://mjenk664.github.io/mjenkio"
 languageCode = "en-us"
 title = "mjenk.io"
-theme = "minimal"
+theme = "m10c"
 paginate = 8
 publishDir = "docs"
 
